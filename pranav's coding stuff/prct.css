@@ -1,0 +1,13 @@
+p{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+h2{
+    color: rgb(2, 145, 228);
+    background-color: cyan;
+
+}
+h2.Myname{
+    color: darkblue;
+}
+  
